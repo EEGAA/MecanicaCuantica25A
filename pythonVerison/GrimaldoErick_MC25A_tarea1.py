@@ -1,3 +1,5 @@
+# Mecánica Cuántica II 25A 15/May/2025 - TAREA 1 -
+# Erick Emmanuel Grimmaldo Arteaga
 import numpy as np
 import matplotlib.pyplot as plt
 import sympy as sp

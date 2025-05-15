@@ -1,4 +1,5 @@
 % Mecánica Cuántica II 24B 09/Nov/24 - TAREA 1 -
+% Erick Emmanuel Grimaldo Arteaga
 close all; clear; clc;
 %% 
 % ____Legendre____
